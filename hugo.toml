@@ -1,4 +1,4 @@
-baseURL = 'https://blog.00002000.xyz/'
+baseURL = 'https://note.00002000.xyz/'
 languageCode = 'zh-cn'
 title = '个人博客'
 theme = 'ananke'
